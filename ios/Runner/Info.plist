@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<key>NFCReaderUsageDescription</key>
+    <string>NFC card পড়ার জন্য permission দরকার</string>
+
+
+
 </dict>
 </plist>
